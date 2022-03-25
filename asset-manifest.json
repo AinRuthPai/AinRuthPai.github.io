@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0c40623b.css",
+    "main.js": "/static/js/main.bbe1134a.js",
+    "static/js/787.0b679274.chunk.js": "/static/js/787.0b679274.chunk.js",
+    "static/media/Cafe24SsurroundAir.ttf": "/static/media/Cafe24SsurroundAir.2477297bc14b8b2ed082.ttf",
+    "index.html": "/index.html",
+    "main.0c40623b.css.map": "/static/css/main.0c40623b.css.map",
+    "main.bbe1134a.js.map": "/static/js/main.bbe1134a.js.map",
+    "787.0b679274.chunk.js.map": "/static/js/787.0b679274.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c40623b.css",
+    "static/js/main.bbe1134a.js"
+  ]
+}
